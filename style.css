@@ -4,3 +4,7 @@ body{
 .navbar-brand{
     font-family: 'Indie Flower', cursive;
 }
+.svg{
+    color: #fdfff0;
+    background-color: #fdfff0;
+}
